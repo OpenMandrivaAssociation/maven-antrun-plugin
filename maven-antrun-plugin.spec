@@ -1,6 +1,6 @@
 Name:           maven-antrun-plugin
 Version:        1.6
-Release:        3
+Release:        5
 Summary:        Maven AntRun Plugin
 
 Group:          Development/Java
