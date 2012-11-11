@@ -1,0 +1,14 @@
+--- pom.xml.orig	2011-10-28 20:00:32.000000000 +0300
++++ pom.xml	2011-11-01 09:52:35.921717462 +0200
+@@ -71,6 +71,11 @@ under the License.
+       <version>${mavenVersion}</version>
+     </dependency>
+     <dependency>
++      <groupId>org.apache.maven</groupId>
++      <artifactId>maven-compat</artifactId>
++      <version>${mavenVersion}</version>
++    </dependency>
++    <dependency>
+       <groupId>org.codehaus.plexus</groupId>
+       <artifactId>plexus-utils</artifactId>
+       <version>2.0.5</version>
