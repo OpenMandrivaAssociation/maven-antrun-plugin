@@ -1,5 +1,5 @@
 Name:           maven-antrun-plugin
-Version:        3.1.0
+Version:        3.2.0
 Release:        1
 Summary:        Maven AntRun Plugin
 License:        Apache-2.0
