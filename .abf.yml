@@ -1,3 +1,5 @@
 sources:
-  maven-antrun-plugin-3.1.0-source-release.zip: bcc9c57627a8a07f3cea921d949fddecbbdec14a
   maven-antrun-plugin-3.2.0-source-release.zip: c09718c9184942cff00637434ab6a90954890f53
+  maven-antrun-plugin-3.2.0-sources.jar: adc4468728d0f8ccc95b7f1a31f6cdb68fe3e57c
+removed_sources:
+  maven-antrun-plugin-3.1.0-source-release.zip: bcc9c57627a8a07f3cea921d949fddecbbdec14a
